@@ -6,7 +6,7 @@
 // 2) Every iteration add a new "#"
 
 var hashtag = "#"
-for (var i = 0; i < 4; i++) {
+for (var i = 0; i < 5; i++) {
   document.write(hashtag)
   document.write("</br>")
   hashtag += "#"
